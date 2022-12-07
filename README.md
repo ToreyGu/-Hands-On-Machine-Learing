@@ -3,9 +3,15 @@
 示例中的代码都进行了实机测试
 
 相关信息
+
 操作系统：      Ubuntu 20.04.1
+
 IDE版本：      Jupyter + Visual Studio Code
+
 python 版本：  Python 3.8.10 64-bit
+
 Scikit-Learn：scikit-learn 1.1.3 
+
 Keras：       keras 2.11.0
+
 TensorFlow:   tensorflow 2.11.0
